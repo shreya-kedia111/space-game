@@ -8,7 +8,7 @@ A modern, arcade-style 2D space shooter game built with HTML5 Canvas, CSS3, and 
 
 ## 🎮 Live Demo
 
-Play the game live: **[Space Invaders: Rocket Defense](https://your-username.github.io/space-game)**
+Play the game live: **[Space Invaders: Rocket Defense](https://shreya-kedia111.github.io/space-game)**
 
 ## ✨ Features
 
@@ -57,7 +57,7 @@ Play the game live: **[Space Invaders: Rocket Defense](https://your-username.git
 ### Option 1: Play Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/space-game.git
+   git clone https://github.com/shreya-kedia111/space-game.git
    cd space-game
    ```
 
@@ -79,7 +79,7 @@ Play the game live: **[Space Invaders: Rocket Defense](https://your-username.git
 1. Fork this repository
 2. Go to Settings → Pages
 3. Select "Deploy from a branch" → `main` branch
-4. Your game will be live at `https://your-username.github.io/space-game`
+4. Your game will be live at `https://shreya-kedia111.github.io/space-game`
 
 ## 📁 Project Structure
 
